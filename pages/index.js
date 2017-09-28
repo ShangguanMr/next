@@ -12,7 +12,7 @@ class index extends React.Component{
     }
     render(){
         return (
-            <div>服务器端渲染 </div>
+            <div>服务器端渲染</div>
         )
     }
 
