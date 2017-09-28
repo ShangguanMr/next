@@ -10,7 +10,11 @@ class index extends React.Component{
     componentDidmount(){
 
     }
-    render(){}
+    render(){
+        return (
+            <div>服务器端渲染 </div>
+        )
+    }
 
 }
 
